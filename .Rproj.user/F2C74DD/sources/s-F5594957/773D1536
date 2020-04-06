@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586139091319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2775612804",
+    "id" : "773D1536",
+    "lastKnownWriteTime" : 1586046964,
+    "last_content_update" : 1586046964,
+    "path" : "~/davidpardob/config/_default/languages.toml",
+    "project_path" : "config/_default/languages.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
