@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My interests include Data Engineering, Visualisation and Generative Art.
 education:
   courses:
   - course: MSc in Complex Systems Science

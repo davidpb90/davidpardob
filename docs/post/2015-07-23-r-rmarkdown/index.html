@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.">
+  <meta name="description" content="My first Tidy Tuesday This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/2015-07-23-r-rmarkdown/">
@@ -230,8 +230,8 @@
   
   <meta property="og:site_name" content="Academic">
   <meta property="og:url" content="/post/2015-07-23-r-rmarkdown/">
-  <meta property="og:title" content="Draft | Academic">
-  <meta property="og:description" content="R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:title" content="Tidy Tuesday | Academic">
+  <meta property="og:description" content="My first Tidy Tuesday This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
@@ -263,7 +263,7 @@
     "@type": "WebPage",
     "@id": "/post/2015-07-23-r-rmarkdown/"
   },
-  "headline": "Draft",
+  "headline": "Tidy Tuesday",
   
   "datePublished": "2020-04-07T02:35:14Z",
   "dateModified": "2020-04-07T02:35:14Z",
@@ -281,7 +281,7 @@
       "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown."
+  "description": "My first Tidy Tuesday This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown."
 }
 </script>
 
@@ -299,7 +299,7 @@
 
 
 
-  <title>Draft | Academic</title>
+  <title>Tidy Tuesday | Academic</title>
 
 </head>
 
@@ -632,7 +632,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Draft</h1>
+  <h1>Tidy Tuesday</h1>
 
   
 
@@ -703,27 +703,35 @@
       
 
 
-<div id="r-markdown" class="section level1">
-<h1>R Markdown</h1>
+<div id="my-first-tidy-tuesday" class="section level1">
+<h1>My first Tidy Tuesday</h1>
 <p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
 <p>You can embed an R code chunk like this:</p>
-<pre class="r"><code>summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932</code></pre>
+<pre class="r"><code>tdf_winners &lt;- readr::read_csv(&#39;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-04-07/tdf_winners.csv&#39;)
+## Parsed with column specification:
+## cols(
+##   edition = col_double(),
+##   start_date = col_date(format = &quot;&quot;),
+##   winner_name = col_character(),
+##   winner_team = col_character(),
+##   distance = col_double(),
+##   time_overall = col_double(),
+##   time_margin = col_double(),
+##   stage_wins = col_double(),
+##   stages_led = col_double(),
+##   height = col_double(),
+##   weight = col_double(),
+##   age = col_double(),
+##   born = col_date(format = &quot;&quot;),
+##   died = col_date(format = &quot;&quot;),
+##   full_name = col_character(),
+##   nickname = col_character(),
+##   birth_town = col_character(),
+##   birth_country = col_character(),
+##   nationality = col_character()
+## )
+#fit &lt;- lm(dist ~ speed, data = cars)
+#fit</code></pre>
 </div>
 <div id="including-plots" class="section level1">
 <h1>Including Plots</h1>
@@ -774,7 +782,7 @@ Figure 1: A fancy pie chart.
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/post/2015-07-23-r-rmarkdown/&amp;text=Draft" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/post/2015-07-23-r-rmarkdown/&amp;text=Tidy%20Tuesday" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -787,7 +795,7 @@ Figure 1: A fancy pie chart.
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/post/2015-07-23-r-rmarkdown/&amp;t=Draft" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/post/2015-07-23-r-rmarkdown/&amp;t=Tidy%20Tuesday" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -800,7 +808,7 @@ Figure 1: A fancy pie chart.
       
       
       <li>
-        <a href="mailto:?subject=Draft&amp;body=/post/2015-07-23-r-rmarkdown/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Tidy%20Tuesday&amp;body=/post/2015-07-23-r-rmarkdown/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -813,7 +821,7 @@ Figure 1: A fancy pie chart.
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/post/2015-07-23-r-rmarkdown/&amp;title=Draft" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/post/2015-07-23-r-rmarkdown/&amp;title=Tidy%20Tuesday" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -826,7 +834,7 @@ Figure 1: A fancy pie chart.
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Draft%20/post/2015-07-23-r-rmarkdown/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Tidy%20Tuesday%20/post/2015-07-23-r-rmarkdown/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -839,7 +847,7 @@ Figure 1: A fancy pie chart.
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/post/2015-07-23-r-rmarkdown/&amp;title=Draft" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/post/2015-07-23-r-rmarkdown/&amp;title=Tidy%20Tuesday" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -881,7 +889,7 @@ Figure 1: A fancy pie chart.
     <div class="media-body">
       <h5 class="card-title"><a href="/">David Pardo</a></h5>
       <h6 class="card-subtitle">Data Scientist</h6>
-      <p class="card-text">My research interests include distributed robotics, mobile computing and programmable matter.</p>
+      <p class="card-text">My interests include Data Engineering, Visualisation and Generative Art.</p>
       <ul class="network-icon" aria-hidden="true">
   
     

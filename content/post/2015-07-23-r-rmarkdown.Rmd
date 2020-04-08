@@ -1,5 +1,5 @@
 ---
-title: "Draft"
+title: "Tidy Tuesday"
 author: "David Pardo"
 date: 2020-04-07T02:35:14
 categories: ["R"]
@@ -10,16 +10,17 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# My first Tidy Tuesday
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
+```{r tdf_winners}
+tdf_winners <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-04-07/tdf_winners.csv')
+#fit <- lm(dist ~ speed, data = cars)
+#fit
+
 ```
 
 # Including Plots

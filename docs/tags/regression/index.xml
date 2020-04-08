@@ -13,34 +13,42 @@
     </image>
     
     <item>
-      <title>Draft</title>
+      <title>Tidy Tuesday</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Tue, 07 Apr 2020 02:35:14 +0000</pubDate>
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;div id=&#34;my-first-tidy-tuesday&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;My first Tidy Tuesday&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;tdf_winners &amp;lt;- readr::read_csv(&amp;#39;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-04-07/tdf_winners.csv&amp;#39;)
+## Parsed with column specification:
+## cols(
+##   edition = col_double(),
+##   start_date = col_date(format = &amp;quot;&amp;quot;),
+##   winner_name = col_character(),
+##   winner_team = col_character(),
+##   distance = col_double(),
+##   time_overall = col_double(),
+##   time_margin = col_double(),
+##   stage_wins = col_double(),
+##   stages_led = col_double(),
+##   height = col_double(),
+##   weight = col_double(),
+##   age = col_double(),
+##   born = col_date(format = &amp;quot;&amp;quot;),
+##   died = col_date(format = &amp;quot;&amp;quot;),
+##   full_name = col_character(),
+##   nickname = col_character(),
+##   birth_town = col_character(),
+##   birth_country = col_character(),
+##   nationality = col_character()
+## )
+#fit &amp;lt;- lm(dist ~ speed, data = cars)
+#fit&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Including Plots&lt;/h1&gt;
