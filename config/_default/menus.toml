@@ -29,9 +29,9 @@
   weight = 50
   
 [[main]]
-  name = "Gallery"
-  url = "#gallery"
-  weight = 60
+  name = "Trips"  # Title of the link.
+  url = "trips/"  # Widget Page folder name.
+  weight = 50  # Position of the link in the navigation bar.
 
 [[main]]
   name = "Contact"
