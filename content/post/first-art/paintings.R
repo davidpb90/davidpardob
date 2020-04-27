@@ -9,7 +9,7 @@ library(here)
 sourceCpp(here('content/post/first-art/stepping-stone.cpp'))
 
 # The plot will be a 400 x 400 raster
-pixels <- 400
+pixels <- 2000
 
 # Initialization of matrix A:
 A <- matrix(0, pixels, pixels) #A is a zero matrix
@@ -19,8 +19,10 @@ ndrops <- sample(5:30, 1)
 
 # Generate drops creating a circle randomly located of radius r  
 for (n in 1:ndrops){
-  x <- runif(1, min = 1, max = pixels)  
-  y <- runif(1, min = 1, max = pixels)  
+  x <- rpois(1,lambda = 0.2) 
+  #x <- runif(1, min = 1, max = pixels)  
+  y <- rt(1, df = pixels)  
+  #y <- runif(1, min = 1, max = pixels)  
   r <- runif(1, min = pixels/50, max = pixels/10)
   
   for (i in 1:pixels){
@@ -58,4 +60,7 @@ ggplot(df, aes(x, y, color = c)) +
         panel.border = element_rect(color="black", fill = NA)) -> plot
 
 # Do you like it? Save it!
-ggsave("choose_a_name.png", plot, height =  6, width =  6)
+ggsave(here('content/post/first-art/third_trial.png'), plot, height =  6, width =  6)
+
+
+
