@@ -19,16 +19,18 @@ ndrops <- sample(5:30, 1)
 
 # Generate drops creating a circle randomly located of radius r  
 for (n in 1:ndrops){
-  x <- rpois(1,lambda = 0.2) 
-  #x <- runif(1, min = 1, max = pixels)  
-  y <- rt(1, df = pixels)  
-  #y <- runif(1, min = 1, max = pixels)  
+  #x <- rpois(1,lambda = 0.2) 
+  x <- runif(1, min = 1, max = pixels)  
+  #y <- rt(1, df = pixels)  
+  y <- runif(1, min = 1, max = pixels)  
   r <- runif(1, min = pixels/50, max = pixels/10)
   
   for (i in 1:pixels){
     for (j in 1:pixels){
-      d <- sqrt((i-x)^2+(j-y)^2) 
-      if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = d, sd = d/2)
+      #d <- sqrt((i-x)^2+(j-y)^2)
+      d <- max(sqrt((i-x)^2+(j-y)^2),0.01) 
+      #if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = d, sd = d/2)
+      if (d < r) A[i,j] <- A[i,j]+rpois(1,lambda = 1/d)
     }
   }
 }
