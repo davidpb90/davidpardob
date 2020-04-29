@@ -30,7 +30,7 @@ for (n in 1:ndrops){
       #d <- sqrt((i-x)^2+(j-y)^2)
       d <- max(sqrt((i-x)^2+(j-y)^2),0.01) 
       #if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = d, sd = d/2)
-      if (d < r) A[i,j] <- A[i,j]+rpois(1,lambda = 1/d)
+      if (d < r) A[i,j] <- A[i,j]+rt(1,df = d)
     }
   }
 }
@@ -62,7 +62,7 @@ ggplot(df, aes(x, y, color = c)) +
         panel.border = element_rect(color="black", fill = NA)) -> plot
 
 # Do you like it? Save it!
-ggsave(here('content/post/first-art/third_trial.png'), plot, height =  6, width =  6)
+ggsave(here('content/post/first-art/fourth_trial.png'), plot, height =  6, width =  6)
 
 
 
