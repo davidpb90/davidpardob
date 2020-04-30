@@ -15,7 +15,7 @@ pixels <- 2000
 A <- matrix(0, pixels, pixels) #A is a zero matrix
 
 # Number of water drops in the canvas
-ndrops <- sample(5:30, 1)
+ndrops <- sample(50:100, 1)
 
 # Generate drops creating a circle randomly located of radius r  
 for (n in 1:ndrops){
