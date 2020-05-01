@@ -15,15 +15,16 @@ pixels <- 2000
 A <- matrix(0, pixels, pixels) #A is a zero matrix
 
 # Number of water drops in the canvas
-ndrops <- sample(5:30, 1)
+ndrops <- sample(50:100, 1)
 
 # Generate drops creating a circle randomly located of radius r  
 for (n in 1:ndrops){
   #x <- rpois(1,lambda = 0.2) 
   x <- runif(1, min = 1, max = pixels)  
   #y <- rt(1, df = pixels)  
-  y <- runif(1, min = 1, max = pixels)  
-  r <- runif(1, min = pixels/50, max = pixels/10)
+  y <- runif(1, min = 1, max = pixels) 
+  #r <- runif(1, min = pixels/200, max = pixels/40)
+  r <- rbeta(1, shape1 = 0.2, shape2 = 0.8)*pixels/10
   
   for (i in 1:pixels){
     for (j in 1:pixels){
@@ -36,7 +37,7 @@ for (n in 1:ndrops){
 }
 
 # Iterations of stepping-stone algorithm
-iters <- sample(200:1500, 1)
+iters <- sample(200:500, 1)
 
 for (i in 1:iters) A <- iterate_stepping(A)
 
@@ -62,7 +63,7 @@ ggplot(df, aes(x, y, color = c)) +
         panel.border = element_rect(color="black", fill = NA)) -> plot
 
 # Do you like it? Save it!
-ggsave(here('content/post/first-art/fourth_trial.png'), plot, height =  6, width =  6)
+ggsave(here('content/post/first-art/fifth_trial.png'), plot, height =  6, width =  6)
 
 
 
