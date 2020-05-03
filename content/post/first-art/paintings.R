@@ -19,9 +19,9 @@ ndrops <- sample(10:50, 1)
 
 # Generate drops creating a circle randomly located of radius r  
 for (n in 1:ndrops){
-  x <- rbeta(1,shape1 = 0.2, shape2 = 0.8)*pixels 
+  x <- rbeta(1,shape1 = 0.4, shape2 = 0.6)*pixels 
   #x <- runif(1, min = 1, max = pixels)  
-  y <- rbeta(1, shape1 = 10, shape2 = 5)*pixels  
+  y <- rbeta(1, shape1 = 4, shape2 = 3)*pixels  
   #y <- runif(1, min = 1, max = pixels)  
   r <- runif(1, min = pixels/50, max = pixels/10)
   
@@ -30,6 +30,7 @@ for (n in 1:ndrops){
       #d <- sqrt((i-x)^2+(j-y)^2)
       d <- max(sqrt((i-x)^2+(j-y)^2),0.01) 
       if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = d, sd = d/2)
+      #if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = 1/max(d,0.01), sd = d/2)
       #if (d < r) A[i,j] <- A[i,j]+rt(1,df = d)
     }
   }
@@ -62,7 +63,7 @@ ggplot(df, aes(x, y, color = c)) +
         panel.border = element_rect(color="black", fill = NA)) -> plot
 
 # Do you like it? Save it!
-ggsave(here('content/post/first-art/sixth_trial.png'), plot, height =  6, width =  6)
+ggsave(here('content/post/first-art/beta_trial.png'), plot, height =  6, width =  6)
 
 
 
