@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
 title = "Photos"
-subtitle = "Around the world"
+subtitle = "Trips around the world"
 +++
 
 {{< gallery >}}
