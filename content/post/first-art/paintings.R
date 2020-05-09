@@ -29,7 +29,8 @@ for (n in 1:ndrops){
     for (j in 1:pixels){
       #d <- sqrt((i-x)^2+(j-y)^2)
       #d <- max(sqrt((i-x)^2+(j-y)^2),0.01) 
-      d <- max(sqrt((i-x)+(j-y)),0.01) 
+      #d <- max((abs(i-x)+abs(j-y)),0.01) 
+      d <- max(((i-x)+(j-y)),0.01) 
       #if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = d, sd = d/2)
       if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = 1/max(d,0.01), sd = d)
       #if (d < r) A[i,j] <- A[i,j]+rt(1,df = d)
