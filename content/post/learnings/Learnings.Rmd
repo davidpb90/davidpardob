@@ -1,0 +1,203 @@
+---
+title: "Learnings"
+author: "David Pardo"
+date: 2020-05-13T04:06:10
+categories: ["All"]
+tags: ["Learnings"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# There is always something to learn
+
+## 17th of April
+
+Configuring R and workflow in a Mac:
+
+- Install Xcode in order to get git: <https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/>
+
+
+- Get key pair: https://secure.vexxhost.com/billing/index.php/knowledgebase/171/How-can-I-generate-SSH-keys-on-Mac-OS-X.html
+
+- Show hidden files: Cmd + Shift + .
+
+## 18th of April
+
+Each time that I open Twitter without a concrete plan afterwards, it goes on for ages. I must always have a plan in mind, one that is compatible with my daily habits. No more random Whatsapp and Twitter checking. Go back to writing one tweet each time you use it!
+
+## 19th of April
+
+How to connect to Redshift: Download VSCode. Add the extension SQLTools:https://vscode-sqltools.mteixeira.dev/. Add a Keybord shortcut for 'Run selected query'.
+
+The VPN might not work: In advanced Network preferences tick 'Send all requests through the VPN connection'. Restart the computer. 
+
+Modify author of git commit: https://www.git-tower.com/learn/git/faq/change-author-name-email
+
+## 20th of April
+
+Started to work into memory, audiobook: Moonwalking with Einstein
+
+Colombia's oil is Brent not WTI: https://www.investopedia.com/ask/answers/052615/what-difference-between-brent-crude-and-west-texas-intermediate.asp
+
+Docker: Runs in http://localhost:8888/
+
+## 21th of April
+
+Git: git revert
+Three way merge
+Pull requests: first goes the branch you want to merge INTO!
+
+Memory: Associate names with memorable images to remember them easily!
+
+## 22th of April
+
+Git: Create commit with a different date: https://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past
+
+## 23rd of April
+
+Hugo Academic theme: widget pages https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page
+
+## 24th of April
+
+German:
+15:51:29	 From Berit Lingoda : hat mir mein Vater vorgelesen und dann habe ich selbst angefangen zu lesen.
+El niño que mató 7 moscas: das tapfere Schneiderlei
+15:53:30	 From Berit Lingoda : lein
+15:57:53	 From Berit Lingoda : https://www.dw.com/de/die-vespa-ist-kult/l-49363624
+15:58:52	 From Berit Lingoda : https://sprachekulturkommunikation.com/deutsch-lernen/uebungen-b1-b2/
+15:59:15	 From Berit Lingoda : https://learngerman.dw.com/de/grammar
+16:00:08	 From Berit Lingoda : https://www.deutsch-perfekt.com/deutsch-hoeren
+
+## 25th of April
+
+The cure for scurvy was found and lost some years after: https://idlewords.com/2010/03/scott_and_scurvy.htm
+
+## 26th of April
+
+Using RcppArmadillo: https://thecoatlessprofessor.com/programming/cpp/rcpp-rcpparmadillo-and-os-x-mavericks-lgfortran-and-lquadmath-error/
+
+Watercolors art: https://fronkonstin.com/2020/03/26/watercolors/
+
+## 27th of April
+
+Sisyphus is an absurd man in his way back to the bottom of the summit. At that moment he holds no hope, but he's in control of his own destiny, he can fully enjoy life because he's conscious of its limitations, suffering and absurdity, and as such he can decide to fully make use of it on his own terms.
+
+Always put your bike inside, and lock it properly, you idiot!
+
+## 28th of April
+
+Quantum Field Theory: https://web.physics.ucsb.edu/~mark/ms-qft-DRAFT.pdf
+
+Literature about collective nation memories, such as in Portugal's case with the earthquake??
+
+Europe's modern way: States present the good face and help developing nations while corporations do the dirty work without considerably stainint states in the process.
+
+Simulation of black holes through supersonic fluids: https://twitter.com/QuantaMagazine/status/1255267856977219585?s=20
+
+## 29th of April
+
+Memory palaces for language learning: https://www.fluentin3months.com/memory-palace/
+
+Lisbon earthquake: https://en.wikipedia.org/wiki/1755_Lisbon_earthquake
+
+Redshift optimisations: https://www.intermix.io/blog/3-mistakes-redshift-setup/
+
+## 30th of April
+
+Indistractable, regain focus: https://www.nirandfar.com/indistractable/
+
+Meadow = pasture = Weide = pastos
+
+Git, modify date of old commit: https://stackoverflow.com/questions/454734/how-can-one-change-the-timestamp-of-an-old-commit-in-git
+
+## 1st of May
+
+Angedeutet = implied, indicated. Andeuten = indicate, suggest
+
+There are apps to save articles and read them, to control distraction and to block certain websites.
+
+## 2nd of May 
+
+Prometteur = prometedor
+
+## 3rd of May 
+
+Gregorius VII, the pope that excommunicated Heinrich IV, was a church reformist (and probably the one after whom we have the Gregorian calendar)
+
+Stander = The stick for leaving the bike standing, in Dutch.
+
+## 4th of May
+
+Neu-Venedig is a town to the east of Müggelsee consistent of quite some canals. A place to be visited!
+
+## 5th of May
+
+A query to automatically create 'create table' statements in Redshift: https://discourse.snowplowanalytics.com/t/generating-redshift-ddl-create-statements-for-tables-that-already-exist/556
+
+Looker extends
+
+Jordan's first title was in 91, after two lost finals
+
+Colourlovers R package: https://github.com/andrewheiss/colourlovers
+
+## 6th of May
+
+Ferreteria is Hardware store in english haha, der Baumarkt, 
+la quincaillerie.
+
+“A need to tell and hear stories is essential to the species Homo sapiens—second in necessity apparently after nourishment and before love and shelter.” —Reynolds Price, from A Palpable God.
+
+Graphic design for data: https://datavizm20.classes.andrewheiss.com/slides/02-slides.html#48
+
+## 7th of May
+
+Abandoned prison in Loos, close to Lille.
+
+## 8th of May
+
+einfallen -> colapsar/implosionare
+anfassen -> agarrar
+berühren -> tocar
+zer -> prefijo para acciones que implican dispersión/destrucción/desintegración
+be -> prefijo para cuando una acción implica a un "otro", ya sea objeto o ser (es una hipótesis, falta comprobarlo) 
+
+## 9th of May
+
+sarebbe bello/ottimo..., para decir estaría bien..., sería bacano...
+
+## 10th of May 
+
+déceler = detectar, descubrir
+or = ahora bien
+acquitter = absolver
+se borner = limitarse
+
+## 11th of May
+
+smother = asfixiar = étouffer = ersticken
+
+Redshift: Use IDENTITY(1,1) to generate unique keys (if necessary)
+
+## 12th of May
+
+German verb prefixes: https://www.fluentu.com/blog/german/german-prefixes/ 
+
+legen - to lay
+erlegen - to kill (mostly used by hunting)
+
+stechen - to sting
+erstechen - to kill someone by knife
+
+hängen - to hang
+erhängen - to die by hanging (gallows)
+
+schlagen - to hit
+erschlagen - to kill someone by using a dull item
+
+## 13th of May
+
+Tubes around Berlin: http://www.berlinglobal.org/index.php?the-berlin-mystery-of-the-pink-pipes
+
+Tricks for filtering in Tidyverse: https://sebastiansauer.github.io/dplyr_filter/

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Learnings | Academic</title>
+    <link>/tags/learnings/</link>
+      <atom:link href="/tags/learnings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learnings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2020 04:06:10 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>Learnings</title>
+      <link>/tags/learnings/</link>
     </image>
     
     <item>
@@ -182,64 +182,6 @@ erschlagen - to kill someone by using a dull item&lt;/p&gt;
 &lt;h2&gt;13th of May&lt;/h2&gt;
 &lt;p&gt;Tubes around Berlin: &lt;a href=&#34;http://www.berlinglobal.org/index.php?the-berlin-mystery-of-the-pink-pipes&#34; class=&#34;uri&#34;&gt;http://www.berlinglobal.org/index.php?the-berlin-mystery-of-the-pink-pipes&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Tricks for filtering in Tidyverse: &lt;a href=&#34;https://sebastiansauer.github.io/dplyr_filter/&#34; class=&#34;uri&#34;&gt;https://sebastiansauer.github.io/dplyr_filter/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tidy Tuesday</title>
-      <link>/post/first-tidy-tuesday/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Tue, 07 Apr 2020 02:35:14 +0000</pubDate>
-      <guid>/post/first-tidy-tuesday/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;my-first-tidy-tuesday&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;My first Tidy Tuesday&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;tdf_winners &amp;lt;- readr::read_csv(&amp;#39;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-04-07/tdf_winners.csv&amp;#39;)
-## Parsed with column specification:
-## cols(
-##   edition = col_double(),
-##   start_date = col_date(format = &amp;quot;&amp;quot;),
-##   winner_name = col_character(),
-##   winner_team = col_character(),
-##   distance = col_double(),
-##   time_overall = col_double(),
-##   time_margin = col_double(),
-##   stage_wins = col_double(),
-##   stages_led = col_double(),
-##   height = col_double(),
-##   weight = col_double(),
-##   age = col_double(),
-##   born = col_date(format = &amp;quot;&amp;quot;),
-##   died = col_date(format = &amp;quot;&amp;quot;),
-##   full_name = col_character(),
-##   nickname = col_character(),
-##   birth_town = col_character(),
-##   birth_country = col_character(),
-##   nationality = col_character()
-## )
-#fit &amp;lt;- lm(dist ~ speed, data = cars)
-#fit&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/first-tidy-tuesday/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>

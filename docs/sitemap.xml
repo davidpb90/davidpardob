@@ -28,17 +28,37 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-04-07T02:35:14+00:00</lastmod>
+    <loc>/categories/all/</loc>
+    <lastmod>2020-05-13T04:06:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2020-04-07T02:35:14+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2020-05-13T04:06:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/learnings/</loc>
+    <lastmod>2020-05-13T04:06:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/learnings/learnings/</loc>
+    <lastmod>2020-05-13T04:06:10+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-05-13T04:06:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-13T04:06:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
     <lastmod>2020-04-07T02:35:14+00:00</lastmod>
   </url>
   
@@ -54,11 +74,6 @@
   
   <url>
     <loc>/tags/regression/</loc>
-    <lastmod>2020-04-07T02:35:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-04-07T02:35:14+00:00</lastmod>
   </url>
   
