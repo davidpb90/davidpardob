@@ -201,3 +201,23 @@ erschlagen - to kill someone by using a dull item
 Tubes around Berlin: http://www.berlinglobal.org/index.php?the-berlin-mystery-of-the-pink-pipes
 
 Tricks for filtering in Tidyverse: https://sebastiansauer.github.io/dplyr_filter/
+
+## 14th of May
+
+Virtual envs in Python: https://docs.python-guide.org/dev/virtualenvs/
+
+dplyr in Python: https://github.com/machow/siuba/blob/master/README.md
+
+Rund um die Uhr: around the clock, constantly
+
+aushalten: put up, endure
+
+immerhin: at least
+
+Rohrkrepierer: non-starter, dud
+
+brüllen: roar
+
+erpressen: blackmail
+
+einwand: objection/einwandfrei: flawless
