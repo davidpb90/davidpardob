@@ -55,6 +55,8 @@ Memory: Associate names with memorable images to remember them easily!
 
 Git: Create commit with a different date: https://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past
 
+GIT_AUTHOR_DATE='Fri Jul 26 19:32:10 2013 -0400' GIT_COMMITTER_DATE='Fri Jul 26 19:32:10 2013 -0400' git commit
+
 ## 23rd of April
 
 Hugo Academic theme: widget pages https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page
@@ -226,3 +228,10 @@ einwand: objection/einwandfrei: flawless
 
 Pipelines in R, Drake: https://milesmcbain.xyz/the-drake-post/, https://edwinth.github.io/blog/drake-ml/
 
+## 16th of May
+
+Mainz lost its archiepiscopal character in 1802: https://en.wikipedia.org/wiki/Elector_of_Mainz
+
+immerzu: all the time,	etwas immerzu tun: keep on doing something
+
+Terminal tricks: https://www.macworld.co.uk/how-to/mac-software/mac-terminal-projects-tutorial-3613813/
