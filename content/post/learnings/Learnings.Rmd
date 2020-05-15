@@ -221,3 +221,8 @@ brüllen: roar
 erpressen: blackmail
 
 einwand: objection/einwandfrei: flawless
+
+## 15th of May
+
+Pipelines in R, Drake: https://milesmcbain.xyz/the-drake-post/, https://edwinth.github.io/blog/drake-ml/
+
