@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learnings | Academic</title>
-    <link>/tags/learnings/</link>
-      <atom:link href="/tags/learnings/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://davidpardobernal.com/tags/learnings/</link>
+      <atom:link href="https://davidpardobernal.com/tags/learnings/index.xml" rel="self" type="application/rss+xml" />
     <description>Learnings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2020 04:06:10 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Learnings</title>
-      <link>/tags/learnings/</link>
+      <link>https://davidpardobernal.com/tags/learnings/</link>
     </image>
     
     <item>
       <title>Learnings</title>
-      <link>/post/learnings/learnings/</link>
+      <link>https://davidpardobernal.com/post/learnings/learnings/</link>
       <pubDate>Wed, 13 May 2020 04:06:10 +0000</pubDate>
-      <guid>/post/learnings/learnings/</guid>
+      <guid>https://davidpardobernal.com/post/learnings/learnings/</guid>
       <description>
 
 

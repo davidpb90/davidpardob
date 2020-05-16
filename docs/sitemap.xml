@@ -3,202 +3,192 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://davidpardobernal.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://davidpardobernal.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://davidpardobernal.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://davidpardobernal.com/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://davidpardobernal.com/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/all/</loc>
+    <loc>https://davidpardobernal.com/categories/all/</loc>
     <lastmod>2020-05-13T04:06:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://davidpardobernal.com/categories/</loc>
     <lastmod>2020-05-13T04:06:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/learnings/</loc>
+    <loc>https://davidpardobernal.com/tags/learnings/</loc>
     <lastmod>2020-05-13T04:06:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/learnings/learnings/</loc>
+    <loc>https://davidpardobernal.com/post/learnings/learnings/</loc>
     <lastmod>2020-05-13T04:06:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://davidpardobernal.com/post/</loc>
     <lastmod>2020-05-13T04:06:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://davidpardobernal.com/tags/</loc>
     <lastmod>2020-05-13T04:06:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://davidpardobernal.com/tags/plot/</loc>
     <lastmod>2020-04-07T02:35:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://davidpardobernal.com/categories/r/</loc>
     <lastmod>2020-04-07T02:35:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://davidpardobernal.com/tags/r-markdown/</loc>
     <lastmod>2020-04-07T02:35:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://davidpardobernal.com/tags/regression/</loc>
     <lastmod>2020-04-07T02:35:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/first-tidy-tuesday/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://davidpardobernal.com/post/first-tidy-tuesday/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2020-04-07T02:35:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://davidpardobernal.com/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://davidpardobernal.com/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>https://davidpardobernal.com/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
+    <loc>https://davidpardobernal.com/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://davidpardobernal.com/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://davidpardobernal.com/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://davidpardobernal.com/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
+    <loc>https://davidpardobernal.com/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://davidpardobernal.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://davidpardobernal.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://davidpardobernal.com/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/trips/</loc>
+    <loc>https://davidpardobernal.com/trips/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>https://davidpardobernal.com/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>https://davidpardobernal.com/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://davidpardobernal.com/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://davidpardobernal.com/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://davidpardobernal.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>https://davidpardobernal.com/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
+    <loc>https://davidpardobernal.com/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/robert-ford/</loc>
+    <loc>https://davidpardobernal.com/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>https://davidpardobernal.com/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
+    <loc>https://davidpardobernal.com/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
