@@ -239,5 +239,14 @@ Terminal tricks: https://www.macworld.co.uk/how-to/mac-software/mac-terminal-pro
 ## 17th of May
 
 The Correspondence Theory of Truth: https://plato.stanford.edu/entries/truth-correspondence/
+Given that truth is a concept that needs to be defined, it does make sense to atttach it to reality, or perceived reality.
 
-Chinese Room argument
+Chinese Room argument: https://plato.stanford.edu/entries/chinese-room/
+How does it falsify that the algorithm that is used does not have semantic knowledge itself? Given that we don't have such an algorithm yet, we cannot be sure tat it's obtainable without its having semantic understandment of its own.
+
+Qualia: The knowledge argument: https://plato.stanford.edu/entries/qualia-knowledge/
+Having all knowledge of the physical properties of a being is not exactly the same as being that being, why would the fact of not knowing what it feels like to be that being deny its physicality? 
+
+## 18th of May
+
+Basic Italian pasta: Good quality canned tomato sauce. Heat oil with a full garlic clove inside. Add the sauce and hit for around 15 min in low fire. Cook the pasta. Add some salt. Add parmiggiano after serving.  
