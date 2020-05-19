@@ -249,4 +249,8 @@ Having all knowledge of the physical properties of a being is not exactly the sa
 
 ## 18th of May
 
-Basic Italian pasta: Good quality canned tomato sauce. Heat oil with a full garlic clove inside. Add the sauce and hit for around 15 min in low fire. Cook the pasta. Add some salt. Add parmiggiano after serving.  
+Basic Italian pasta: Good quality canned tomato sauce. Heat oil with a full garlic clove inside. Add the sauce and hit for around 15 min in low fire. Cook the pasta. Add some salt. Add parmiggiano after serving.
+
+## 19th of May
+
+Internals of Redshift: https://docs.aws.amazon.com/redshift/latest/dg/c_internal_arch_system_operation.html
