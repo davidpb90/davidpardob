@@ -256,3 +256,7 @@ Basic Italian pasta: Good quality canned tomato sauce. Heat oil with a full garl
 Internals of Redshift: https://docs.aws.amazon.com/redshift/latest/dg/c_internal_arch_system_operation.html
 
 API vs SDK: https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/
+
+## 20th of May
+
+A brief history of Neuruppin: https://en.wikipedia.org/wiki/Neuruppin
