@@ -28,9 +28,9 @@ for (n in 1:ndrops){
   for (i in 1:pixels){
     for (j in 1:pixels){
       #d <- sqrt((i-x)^2+(j-y)^2)
-      #d <- max(sqrt((i-x)^2+(j-y)^2),0.01) 
+      d <- max(sqrt((i-x)^2+(j-y)^2),0.01) 
       #d <- max((abs(i-x)+abs(j-y)),0.01) 
-      d <- max(((i-x)+(j-y)),0.01) 
+      #d <- max(((i-x)+(j-y)),0.01) 
       #d <- max(((i-y)+(j-x)),0.01) 
       #if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = d, sd = d/2)
       if (d < r) A[i,j] <- A[i,j]+rnorm(1, mean = 1/max(d,0.01), sd = d)
@@ -66,7 +66,7 @@ ggplot(df, aes(x, y, color = c)) +
         panel.border = element_rect(color="black", fill = NA)) -> plot
 
 # Do you like it? Save it!
-ggsave(here('content/post/first-art/crazy_trial.png'), plot, height =  6, width =  6)
+ggsave(here('content/post/first-art/crazy_trial_l2.png'), plot, height =  6, width =  6)
 
 
 
