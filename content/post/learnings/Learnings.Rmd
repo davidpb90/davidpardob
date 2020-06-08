@@ -276,3 +276,18 @@ Faith47, street artist, and Urban Nation's website: https://urban-nation.com/art
 ## 3rd of June
 
 Keynesianism: http://la.utexas.edu/users/hcleaver/357L/357Lrise.html
+
+## 4th of June
+
+To download proper KLM files in personal Google Maps, different polygons must be created by adding shapes, not adding layers.
+
+Bürgersteig: pavement
+
+The evolution of pronunciation for eau: https://www.quora.com/Why-is-the-French-word-for-water-Leau-so-different-from-the-other-Romance-languages-e-g-La-agua-Lacqua-A-%C3%A1gua
+
+## 8th of June
+
+Test driven development in R: https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf
+
+Test driven development in Python:
+https://python-3-patterns-idioms-test.readthedocs.io/en/latest/UnitTesting.html
