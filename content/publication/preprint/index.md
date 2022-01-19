@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 title: An example preprint / working paper
-url_code: '#'
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 url_dataset: '#'
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_poster: '#'
@@ -41,8 +41,8 @@ url_source: '#'
 url_video: '#'
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
