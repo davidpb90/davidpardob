@@ -31,13 +31,13 @@ experience:
     date_end: ''
     description: |2-
         Involved in:
-          * Providing analytics accross the whole             company. 
-          * Refactoring and managing the Data                 Warehouse.
-          * Replacing the dashboarding solution               for the company.
-          * Managing data pipelines.
-          * Creating infrastructure for further               automated processes.
-          * Optimising processes.
-          * Investor reporting.
+        - Providing analytics accross the whole company. 
+        - Refactoring and managing the Data Warehouse.
+        - Replacing the dashboarding solution for the company.
+        - Managing data pipelines.
+        - Creating infrastructure for further automated processes.
+        - Optimising processes.
+        - Investor reporting.
         
   - title: Data Scientist
     company: Homebell
@@ -47,9 +47,9 @@ experience:
     date_start: '2016-12-12'
     date_end: '2019-04-30'
     description: |2-
-      Initially building ML models for                   the Pricing team. 
-                  Then helping create the                           company's data warehouse and                      being its first user.
-                  Supporting all departments with                   analytics.
+      - Initially building ML models for the Pricing team. 
+      - Then helping create the company's data warehouse and being its first user.
+      - Supporting all departments with                   analytics.
                   
   - title: Intern
     company: Microsoft - Inria Lab
@@ -59,7 +59,7 @@ experience:
     date_start: '2016-02-01'
     date_end: '2016-08-31'
     description: |2-
-      Building a routing algorithm for finding          relevant answers for a given question in Q&A       websites.
+      Building a routing algorithm for finding relevant answers for a given question in Q&A websites.
     
   - title: Graduate Assitant
     company: Universidad de los Andes
@@ -69,8 +69,7 @@ experience:
     date_start: '2014-08-01'
     date_end: '2016-07-30'
     description: |2-
-      Running problem solving modules for Integral       Calculus
-      and Linear Algebra courses.
+      Running problem solving modules for Integral Calculus and Linear Algebra courses.
 
 design:
   columns: '2'
