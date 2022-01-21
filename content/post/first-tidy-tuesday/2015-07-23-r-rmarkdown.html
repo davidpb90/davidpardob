@@ -1,0 +1,58 @@
+---
+title: "Tidy Tuesday"
+author: "David Pardo"
+date: 2020-04-07T02:35:14
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<div id="my-first-tidy-tuesday" class="section level1">
+<h1>My first Tidy Tuesday</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>tdf_winners &lt;- readr::read_csv(&#39;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-04-07/tdf_winners.csv&#39;)
+## Parsed with column specification:
+## cols(
+##   edition = col_double(),
+##   start_date = col_date(format = &quot;&quot;),
+##   winner_name = col_character(),
+##   winner_team = col_character(),
+##   distance = col_double(),
+##   time_overall = col_double(),
+##   time_margin = col_double(),
+##   stage_wins = col_double(),
+##   stages_led = col_double(),
+##   height = col_double(),
+##   weight = col_double(),
+##   age = col_double(),
+##   born = col_date(format = &quot;&quot;),
+##   died = col_date(format = &quot;&quot;),
+##   full_name = col_character(),
+##   nickname = col_character(),
+##   birth_town = col_character(),
+##   birth_country = col_character(),
+##   nationality = col_character()
+## )
+#fit &lt;- lm(dist ~ speed, data = cars)
+#fit</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span style="display:block;" id="fig:pie"></span>
+<img src="/post/first-tidy-tuesday/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>

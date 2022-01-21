@@ -1,0 +1,344 @@
+---
+title: "Learnings"
+author: "David Pardo"
+date: 2020-05-13T04:06:10
+categories: ["All"]
+tags: ["Learnings"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# There is always something to learn
+
+## 17th of April
+
+Configuring R and workflow in a Mac:
+
+- Install Xcode in order to get git: <https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/>
+
+
+- Get key pair: https://secure.vexxhost.com/billing/index.php/knowledgebase/171/How-can-I-generate-SSH-keys-on-Mac-OS-X.html
+
+- Show hidden files: Cmd + Shift + .
+
+## 18th of April
+
+Each time that I open Twitter without a concrete plan afterwards, it goes on for ages. I must always have a plan in mind, one that is compatible with my daily habits. No more random Whatsapp and Twitter checking. Go back to writing one tweet each time you use it!
+
+## 19th of April
+
+How to connect to Redshift: Download VSCode. Add the extension SQLTools:https://vscode-sqltools.mteixeira.dev/. Add a Keybord shortcut for 'Run selected query'.
+
+The VPN might not work: In advanced Network preferences tick 'Send all requests through the VPN connection'. Restart the computer. 
+
+Modify author of git commit: https://www.git-tower.com/learn/git/faq/change-author-name-email
+
+## 20th of April
+
+Started to work into memory, audiobook: Moonwalking with Einstein
+
+Colombia's oil is Brent not WTI: https://www.investopedia.com/ask/answers/052615/what-difference-between-brent-crude-and-west-texas-intermediate.asp
+
+Docker: Runs in http://localhost:8888/
+
+## 21th of April
+
+Git: git revert
+Three way merge
+Pull requests: first goes the branch you want to merge INTO!
+
+Memory: Associate names with memorable images to remember them easily!
+
+## 22th of April
+
+Git: Create commit with a different date: https://stackoverflow.com/questions/3895453/how-do-i-make-a-git-commit-in-the-past
+
+GIT_AUTHOR_DATE='Fri Jul 26 19:32:10 2013 -0400' GIT_COMMITTER_DATE='Fri Jul 26 19:32:10 2013 -0400' git commit
+
+## 23rd of April
+
+Hugo Academic theme: widget pages https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page
+
+## 24th of April
+
+German:
+15:51:29	 From Berit Lingoda : hat mir mein Vater vorgelesen und dann habe ich selbst angefangen zu lesen.
+El niño que mató 7 moscas: das tapfere Schneiderlei
+15:53:30	 From Berit Lingoda : lein
+15:57:53	 From Berit Lingoda : https://www.dw.com/de/die-vespa-ist-kult/l-49363624
+15:58:52	 From Berit Lingoda : https://sprachekulturkommunikation.com/deutsch-lernen/uebungen-b1-b2/
+15:59:15	 From Berit Lingoda : https://learngerman.dw.com/de/grammar
+16:00:08	 From Berit Lingoda : https://www.deutsch-perfekt.com/deutsch-hoeren
+
+## 25th of April
+
+The cure for scurvy was found and lost some years after: https://idlewords.com/2010/03/scott_and_scurvy.htm
+
+## 26th of April
+
+Using RcppArmadillo: https://thecoatlessprofessor.com/programming/cpp/rcpp-rcpparmadillo-and-os-x-mavericks-lgfortran-and-lquadmath-error/
+
+Watercolors art: https://fronkonstin.com/2020/03/26/watercolors/
+
+## 27th of April
+
+Sisyphus is an absurd man in his way back to the bottom of the summit. At that moment he holds no hope, but he's in control of his own destiny, he can fully enjoy life because he's conscious of its limitations, suffering and absurdity, and as such he can decide to fully make use of it on his own terms.
+
+Always put your bike inside, and lock it properly, you idiot!
+
+## 28th of April
+
+Quantum Field Theory: https://web.physics.ucsb.edu/~mark/ms-qft-DRAFT.pdf
+
+Literature about collective nation memories, such as in Portugal's case with the earthquake??
+
+Europe's modern way: States present the good face and help developing nations while corporations do the dirty work without considerably stainint states in the process.
+
+Simulation of black holes through supersonic fluids: https://twitter.com/QuantaMagazine/status/1255267856977219585?s=20
+
+## 29th of April
+
+Memory palaces for language learning: https://www.fluentin3months.com/memory-palace/
+
+Lisbon earthquake: https://en.wikipedia.org/wiki/1755_Lisbon_earthquake
+
+Redshift optimisations: https://www.intermix.io/blog/3-mistakes-redshift-setup/
+
+## 30th of April
+
+Indistractable, regain focus: https://www.nirandfar.com/indistractable/
+
+Meadow = pasture = Weide = pastos
+
+Git, modify date of old commit: https://stackoverflow.com/questions/454734/how-can-one-change-the-timestamp-of-an-old-commit-in-git
+
+## 1st of May
+
+Angedeutet = implied, indicated. Andeuten = indicate, suggest
+
+There are apps to save articles and read them, to control distraction and to block certain websites.
+
+## 2nd of May 
+
+Prometteur = prometedor
+
+## 3rd of May 
+
+Gregorius VII, the pope that excommunicated Heinrich IV, was a church reformist (and probably the one after whom we have the Gregorian calendar)
+
+Stander = The stick for leaving the bike standing, in Dutch.
+
+## 4th of May
+
+Neu-Venedig is a town to the east of Müggelsee consistent of quite some canals. A place to be visited!
+
+## 5th of May
+
+A query to automatically create 'create table' statements in Redshift: https://discourse.snowplowanalytics.com/t/generating-redshift-ddl-create-statements-for-tables-that-already-exist/556
+
+Looker extends
+
+Jordan's first title was in 91, after two lost finals
+
+Colourlovers R package: https://github.com/andrewheiss/colourlovers
+
+## 6th of May
+
+Ferreteria is Hardware store in english haha, der Baumarkt, 
+la quincaillerie.
+
+“A need to tell and hear stories is essential to the species Homo sapiens—second in necessity apparently after nourishment and before love and shelter.” —Reynolds Price, from A Palpable God.
+
+Graphic design for data: https://datavizm20.classes.andrewheiss.com/slides/02-slides.html#48
+
+## 7th of May
+
+Abandoned prison in Loos, close to Lille.
+
+## 8th of May
+
+einfallen -> colapsar/implosionare
+anfassen -> agarrar
+berühren -> tocar
+zer -> prefijo para acciones que implican dispersión/destrucción/desintegración
+be -> prefijo para cuando una acción implica a un "otro", ya sea objeto o ser (es una hipótesis, falta comprobarlo) 
+
+## 9th of May
+
+sarebbe bello/ottimo..., para decir estaría bien..., sería bacano...
+
+## 10th of May 
+
+déceler = detectar, descubrir
+or = ahora bien
+acquitter = absolver
+se borner = limitarse
+
+## 11th of May
+
+smother = asfixiar = étouffer = ersticken
+
+Redshift: Use IDENTITY(1,1) to generate unique keys (if necessary)
+
+## 12th of May
+
+German verb prefixes: https://www.fluentu.com/blog/german/german-prefixes/ 
+
+legen - to lay
+erlegen - to kill (mostly used by hunting)
+
+stechen - to sting
+erstechen - to kill someone by knife
+
+hängen - to hang
+erhängen - to die by hanging (gallows)
+
+schlagen - to hit
+erschlagen - to kill someone by using a dull item
+
+## 13th of May
+
+Tubes around Berlin: http://www.berlinglobal.org/index.php?the-berlin-mystery-of-the-pink-pipes
+
+Tricks for filtering in Tidyverse: https://sebastiansauer.github.io/dplyr_filter/
+
+## 14th of May
+
+Virtual envs in Python: https://docs.python-guide.org/dev/virtualenvs/
+
+dplyr in Python: https://github.com/machow/siuba/blob/master/README.md
+
+Rund um die Uhr: around the clock, constantly
+
+aushalten: put up, endure
+
+immerhin: at least
+
+Rohrkrepierer: non-starter, dud
+
+brüllen: roar
+
+erpressen: blackmail
+
+einwand: objection/einwandfrei: flawless
+
+## 15th of May
+
+Pipelines in R, Drake: https://milesmcbain.xyz/the-drake-post/, https://edwinth.github.io/blog/drake-ml/
+
+## 16th of May
+
+Mainz lost its archiepiscopal character in 1802: https://en.wikipedia.org/wiki/Elector_of_Mainz
+
+immerzu: all the time,	etwas immerzu tun: keep on doing something
+
+Terminal tricks: https://www.macworld.co.uk/how-to/mac-software/mac-terminal-projects-tutorial-3613813/
+
+## 17th of May
+
+The Correspondence Theory of Truth: https://plato.stanford.edu/entries/truth-correspondence/
+Given that truth is a concept that needs to be defined, it does make sense to atttach it to reality, or perceived reality.
+
+Chinese Room argument: https://plato.stanford.edu/entries/chinese-room/
+How does it falsify that the algorithm that is used does not have semantic knowledge itself? Given that we don't have such an algorithm yet, we cannot be sure tat it's obtainable without its having semantic understandment of its own.
+
+Qualia: The knowledge argument: https://plato.stanford.edu/entries/qualia-knowledge/
+Having all knowledge of the physical properties of a being is not exactly the same as being that being, why would the fact of not knowing what it feels like to be that being deny its physicality? 
+
+## 18th of May
+
+Basic Italian pasta: Good quality canned tomato sauce. Heat oil with a full garlic clove inside. Add the sauce and hit for around 15 min in low fire. Cook the pasta. Add some salt. Add parmiggiano after serving.
+
+## 19th of May
+
+Internals of Redshift: https://docs.aws.amazon.com/redshift/latest/dg/c_internal_arch_system_operation.html
+
+API vs SDK: https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/
+
+## 20th of May
+
+A brief history of Neuruppin: https://en.wikipedia.org/wiki/Neuruppin
+
+## 21st of May
+
+Mermaid etymology: https://www.etymonline.com/word/mermaid
+
+## 22nd of May
+
+Der Tatort Reiniger, german comedy: https://www.ardmediathek.de/ndr/shows/Y3JpZDovL25kci5kZS8xNTE2/der-tatortreiniger
+
+## 23rd of May
+
+Faith47, street artist, and Urban Nation's website: https://urban-nation.com/artist/faith-47/
+
+## 3rd of June
+
+Keynesianism: http://la.utexas.edu/users/hcleaver/357L/357Lrise.html
+
+## 4th of June
+
+To download proper KLM files in personal Google Maps, different polygons must be created by adding shapes, not adding layers.
+
+Bürgersteig: pavement
+
+The evolution of pronunciation for eau: https://www.quora.com/Why-is-the-French-word-for-water-Leau-so-different-from-the-other-Romance-languages-e-g-La-agua-Lacqua-A-%C3%A1gua
+
+## 8th of June
+
+Test driven development in R: https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf
+
+Test driven development in Python:
+https://python-3-patterns-idioms-test.readthedocs.io/en/latest/UnitTesting.html
+
+## 6th of November
+
+Redshift information about Stored Procedure Calls:
+SVL_STORED_PROC_CALL
+
+Obtain information about what compression to use in each column:
+analyze compression report.marketing_looker;
+
+## 10th of November
+
+Switching Redshift users:
+https://docs.aws.amazon.com/redshift/latest/dg/tutorial-wlm-routing-queries-to-queues.html
+
+Create a super user in Redshift:
+https://docs.aws.amazon.com/redshift/latest/dg/r_superusers.html
+
+Emulating pivoting in Redshift:
+https://github.com/awslabs/amazon-redshift-utils/blob/master/src/StoredProcedures/sp_pivot_for.sql
+
+## 18th of November
+
+Use variables as table names in Redshift stored procedures:
+
+https://stackoverflow.com/questions/57462380/cannot-pass-parameter-inside-stored-procedure-in-redshift
+
+## 09.08.2021 Berlin
+
+Configure AWS CLI:
+
+1) Get your AWS access key and AWS secret key
+2) Follow basic configuration in https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html.         Default region name: eu-central-1 
+  Default output format: json
+3) Configure the Airflow profile following https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-role.html
+
+## 2021.09.07 Berlin
+
+Add AWS profile to the path in order not to invoke --profile in every command:
+
+$ export AWS_PROFILE=airflow
+
+Create zip file and replace a corresponding file in S3 with the CLI:
+
+$ zip -r plugins.zip plugins/
+$ aws s3 cp ./plugins.zip s3://airflow-de-bucket/plugins.zip
+
+## 2022.20.01 Belfast
+ 
+Build a website with R, fast: https://shilaan.rbind.io/post/building-your-website-using-r-blogdown/
+
+
