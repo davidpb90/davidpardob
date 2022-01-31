@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: Medwing
     company_url: www.medwing.com
-    company_logo: org-gc
+    company_logo: medwing_logo
     location: Berlin
     date_start: '2019-05-01'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: Data Scientist
     company: Homebell
     company_url: ''
-    company_logo: org-x
+    company_logo: homebell_logo
     location: Berlin
     date_start: '2016-12-12'
     date_end: '2019-04-30'
@@ -54,7 +54,7 @@ experience:
   - title: Intern
     company: Microsoft - Inria Lab
     company_url: ''
-    company_logo: org-x
+    company_logo: inria_logo
     location: Paris
     date_start: '2016-02-01'
     date_end: '2016-08-31'
@@ -64,7 +64,7 @@ experience:
   - title: Graduate Assitant
     company: Universidad de los Andes
     company_url: ''
-    company_logo: org-x
+    company_logo: uniandes_logo
     location: Bogotá
     date_start: '2014-08-01'
     date_end: '2016-07-30'
